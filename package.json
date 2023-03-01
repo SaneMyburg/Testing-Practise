@@ -1,0 +1,23 @@
+{
+  "name": "testing-practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaneMyburg/Testing-Practise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaneMyburg/Testing-Practise/issues"
+  },
+  "homepage": "https://github.com/SaneMyburg/Testing-Practise#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
